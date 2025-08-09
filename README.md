@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- Banner -->
-<img src="[https://i.imgur.com/ZzYv2vP.pn](https://github.com/Sainath-K-tech/Sainath-K-tech/blob/2296539eb5f5c6fe935503960b49caa9ab0570c1/Banner.png)" width="100%" alt="Sainath K - Full Stack Developer Banner">
+<img src="https://github.com/Sainath-K-tech/Sainath-K-tech/blob/2296539eb5f5c6fe935503960b49caa9ab0570c1/Banner.png" width="100%" alt="Sainath K - Full Stack Developer Banner">
 
 <!-- Typing Animation -->
 <h1 align="center">
