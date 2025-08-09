@@ -1,6 +1,8 @@
 ## Hi there 👋
 <!-- Banner -->
-<img src="https://github.com/Sainath-K-tech/Sainath-K-tech/blob/2296539eb5f5c6fe935503960b49caa9ab0570c1/Banner.png" width="40%" alt="Sainath K - Full Stack Developer Banner">
+<p align="center">
+<img src="https://github.com/Sainath-K-tech/Sainath-K-tech/blob/3c2ca8756f805b105145f080091cc48c9498e278/Sainath.jpg" width="40%" alt="Sainath K - Full Stack Developer Banner">
+</p>
 
 <!-- Typing Animation -->
 <h1 align="center">
