@@ -57,16 +57,41 @@
 
 ## 🚀 Projects Showcase
 
-| Project Name | Description | Tech Stack |
-|--------------|-------------|------------|
-| [My Portfolio](#) | Personal portfolio website showcasing my skills & projects | HTML, CSS, JavaScript |
-| [E-Commerce Store](#) | MERN stack store with cart & checkout system | MongoDB, Express, React, Node.js |
-| [Task Manager App](#) | A full-stack CRUD app to manage tasks & deadlines | React, Node.js, MongoDB |
-| [Weather App](#) | Real-time weather updates using API integration | HTML, CSS, JavaScript |
+<section class="projects-section">
+  <h2>🚀 Projects Showcase</h2>
+  <div class="projects-container">
 
----
+    <div class="project-card">
+      <h3>My Portfolio</h3>
+      <p>Personal portfolio website showcasing my skills & projects</p>
+      <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
+      <a href="#" class="demo-btn">Live Demo</a>
+    </div>
 
-<p align="center">💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
+    <div class="project-card">
+      <h3>E-Commerce Store</h3>
+      <p>MERN stack store with cart & checkout system</p>
+      <p><strong>Tech Stack:</strong> MongoDB, Express, React, Node.js</p>
+      <a href="#" class="demo-btn">Live Demo</a>
+    </div>
+
+    <div class="project-card">
+      <h3>Task Manager App</h3>
+      <p>A full-stack CRUD app to manage tasks & deadlines</p>
+      <p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
+      <a href="#" class="demo-btn">Live Demo</a>
+    </div>
+
+    <div class="project-card">
+      <h3>Weather App</h3>
+      <p>Real-time weather updates using API integration</p>
+      <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
+      <a href="#" class="demo-btn">Live Demo</a>
+    </div>
+
+  </div>
+  <p class="quote">💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
+</section>
 
 
 <!--
