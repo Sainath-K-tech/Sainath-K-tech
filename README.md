@@ -57,42 +57,16 @@
 
 ## 🚀 Projects Showcase
 
-<section class="projects-section">
-  <h2>🚀 Projects Showcase</h2>
-  <div class="projects-container">
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| [My Portfolio](#) | Personal portfolio website showcasing my skills & projects | HTML, CSS, JavaScript,Python |
+| [The Daily Pulse](https://github.com/Sainath-K-tech/The-Daily-Pulse-NewsApp-) | MERN stack store with cart & checkout system | React,Vite,CSS,Javascript |
+| [Employee Management](https://github.com/Sainath-K-tech/Employee_Management) | A full-stack CRUD app to manage tasks & deadlines | Express, pug, MongoDB |
+| [IFSC Code Finder](#) | Real-time weather updates using API integration | HTML, CSS, JavaScript |
 
-  <div class="project-card">
-      <h3>My Portfolio</h3>
-      <p>Personal portfolio website showcasing my skills & projects</p>
-      <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
-      <a href="#" class="demo-btn">Live Demo</a>
-    </div>
+---
 
-  <div class="project-card">
-      <h3>E-Commerce Store</h3>
-      <p>MERN stack store with cart & checkout system</p>
-      <p><strong>Tech Stack:</strong> MongoDB, Express, React, Node.js</p>
-      <a href="#" class="demo-btn">Live Demo</a>
-    </div>
-
-  <div class="project-card">
-      <h3>Task Manager App</h3>
-      <p>A full-stack CRUD app to manage tasks & deadlines</p>
-      <p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
-      <a href="#" class="demo-btn">Live Demo</a>
-    </div>
-
-  <div class="project-card">
-      <h3>Weather App</h3>
-      <p>Real-time weather updates using API integration</p>
-      <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
-      <a href="#" class="demo-btn">Live Demo</a>
-    </div>
-
-  </div>
-  <p class="quote">💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
-</section>
-
+<p align="center">💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
 
 <!--
 **Sainath-K-tech/Sainath-K-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
