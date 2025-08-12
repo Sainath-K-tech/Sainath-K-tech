@@ -62,7 +62,7 @@
 | [My Portfolio](#) | Personal portfolio website showcasing my skills & projects | HTML, CSS, JavaScript,Python |
 | [The Daily Pulse](https://github.com/Sainath-K-tech/The-Daily-Pulse-NewsApp-) | MERN stack store with cart & checkout system | React,Vite,CSS,Javascript |
 | [Employee Management](https://github.com/Sainath-K-tech/Employee_Management) | A full-stack CRUD app to manage tasks & deadlines | Express, pug, MongoDB |
-| [IFSC Code Finder](#) | Real-time weather updates using API integration | HTML, CSS, JavaScript |
+| [IFSC Code Finder](#) | A website to find the bank details using Bank name and Branch name | PHP, CSS , SQL |
 
 ---
 
