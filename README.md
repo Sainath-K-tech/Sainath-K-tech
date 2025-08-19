@@ -1,10 +1,10 @@
-## 👋 Hi there
+## 👋 Hi there, 
 
-🚀 Sainath K | Mern Stack Developer | python Enthusiast
+## 🚀 Sainath K | Mern Stack Developer | Python Enthusiast
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F700&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+cool+applications+using+Mern;Problem+Solver+%26+Tech+Learner;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F700&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Problem+Solver+%26+Tech+Learner;Always+learning+new+things!" alt="Typing SVG" />
 </h1>
 
 ---
@@ -41,24 +41,21 @@
 ### 🚀 Featured Projects  
 <p align="center">
   <a href="https://github.com/Sainath-K-tech/Student-Management-System-React">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=Student-Management-System-React&theme=tokyonight&hide_border=false" />
-</a>
-
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=Student-Management-System-React&theme=tokyonight&hide_border=false" />
+  </a>
   <a href="https://github.com/Sainath-K-tech/The-Daily-Pulse-NewsApp-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=The-Daily-Pulse-NewsApp-&theme=tokyonight&hide_border=false" />
-</a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=The-Daily-Pulse-NewsApp-&theme=tokyonight&hide_border=false" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Sainath-K-tech/Aurora-ChatBot-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=Aurora-ChatBot-&theme=tokyonight&hide_border=false" />
-</a>
-
-<a href="https://github.com/Sainath-K-tech/To-Do-List">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=To-Do-List&theme=tokyonight&hide_border=false" />
-</a>
+  <a href="https://github.com/Sainath-K-tech/Aurora-ChatBot-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=Aurora-ChatBot-&theme=tokyonight&hide_border=false" />
+  </a>
+  <a href="https://github.com/Sainath-K-tech/To-Do-List">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=To-Do-List&theme=tokyonight&hide_border=false" />
+  </a>
 </p>
-
 
 ---
 
