@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Sainath K  
+## 👋 Hi there
 
 <!-- Banner -->
 <p align="center">
