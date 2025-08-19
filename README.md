@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Sainath-K-tech/Sainath-K-tech/blob/3c2ca8756f805b105145f080091cc48c9498e278/Sainath.jpg" width="60%" alt="Sainath K - Full Stack Developer Banner">
+  <img src="https://github.com/Sainath-K-tech/Sainath-K-tech/blob/3c2ca8756f805b105145f080091cc48c9498e278/Sainath.jpg" width="40%" alt="Sainath K - Full Stack Developer Banner">
 </p>
 
 <!-- Typing Animation -->
@@ -88,5 +88,5 @@
 
 <p align="center">
   📍 Bangalore, Karnataka <br>
-  <img src="https://komarev.com/ghpvc/?username=Sainath-K-tech&color=pink" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sainath-K-tech&color=ff69b4" alt="Profile views" />
 </p>
