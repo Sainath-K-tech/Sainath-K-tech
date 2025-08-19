@@ -56,7 +56,7 @@
 
 <p align="center">
   📍Bangalore,Karnataka         
-  ##   ![Profile Views](https://komarev.com/ghpvc/?username=Sainath-K-tech&color=pink)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Sainath-K-tech&color=pink)
 </p>
 
 <p align="center">💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
