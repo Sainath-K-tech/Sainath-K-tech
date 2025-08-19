@@ -1,6 +1,6 @@
 ## 👋 Hi there, 
 
-## 🚀 Sainath K | Mern Stack Developer | Python Enthusiast
+## 🚀 Sainath K | Mern Stack Developer | ML Enthusiast
 
 <!-- Typing Animation -->
 <h1 align="center">
