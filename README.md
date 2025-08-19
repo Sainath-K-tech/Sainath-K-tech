@@ -44,21 +44,24 @@
 ### 🚀 Featured Projects  
 <p align="center">
   <a href="https://github.com/Sainath-K-tech/Student-Management-System-React">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=student-management-system&theme=tokyonight&hide_border=false" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=Student-Management-System-React&theme=tokyonight&hide_border=false" />
+</a>
+
   <a href="https://github.com/Sainath-K-tech/The-Daily-Pulse-NewsApp-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=mega-mart&theme=tokyonight&hide_border=false" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=The-Daily-Pulse-NewsApp-&theme=tokyonight&hide_border=false" />
+</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sainath-K-tech/Aurora-ChatBot-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=chatbot-aurora&theme=tokyonight&hide_border=false" />
-  </a>
-  <a href="https://github.com/Sainath-K-tech/To-Do-List">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=ecommerce-site&theme=tokyonight&hide_border=false" />
-  </a>
+<a href="https://github.com/Sainath-K-tech/Aurora-ChatBot-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=Aurora-ChatBot-&theme=tokyonight&hide_border=false" />
+</a>
+
+<a href="https://github.com/Sainath-K-tech/To-Do-List">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sainath-K-tech&repo=To-Do-List&theme=tokyonight&hide_border=false" />
+</a>
 </p>
+
 
 ---
 
