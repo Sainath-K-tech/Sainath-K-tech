@@ -52,23 +52,16 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
----
-
-## 🚀 Projects Showcase
-
-| Project Name | Description | Tech Stack |
-|--------------|-------------|------------|
-| [My Portfolio](#) | Personal portfolio website showcasing my skills & projects | HTML, CSS, JavaScript,Python |
-| [The Daily Pulse](https://github.com/Sainath-K-tech/The-Daily-Pulse-NewsApp-) | MERN stack store with cart & checkout system | React,Vite,CSS,Javascript |
-| [Employee Management](https://github.com/Sainath-K-tech/Employee_Management) | A full-stack CRUD app to manage tasks & deadlines | Express, pug, MongoDB |
-| [IFSC Code Finder](#) | A website to find the bank details using Bank name and Branch name | PHP, CSS , SQL |
-
 ---
 
 <p align="center">💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
 
-##   ![Profile Views](https://komarev.com/ghpvc/?username=Sainath-K-tech&color=blue)
+
+<p align="center">
+  ##   ![Profile Views](https://komarev.com/ghpvc/?username=Sainath-K-tech&color=pink)
+</p>
+
+
 
 <!--
 **Sainath-K-tech/Sainath-K-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
