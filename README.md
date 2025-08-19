@@ -1,13 +1,10 @@
 ## 👋 Hi there
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Sainath-K-tech/Sainath-K-tech/blob/3c2ca8756f805b105145f080091cc48c9498e278/Sainath.jpg" width="40%" alt="Sainath K - Full Stack Developer Banner">
-</p>
+🚀 Sainath K | Mern Stack Developer | python Enthusiast
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F700&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Problem+Solver+%26+Tech+Learner;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F700&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+cool+applications+using+Mern;Problem+Solver+%26+Tech+Learner;Always+learning+new+things!" alt="Typing SVG" />
 </h1>
 
 ---
