@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋                             ![Profile Views](https://komarev.com/ghpvc/?username=Sainath-K-tech&color=blue)
 <!-- Banner -->
 <p align="center">
 <img src="https://github.com/Sainath-K-tech/Sainath-K-tech/blob/3c2ca8756f805b105145f080091cc48c9498e278/Sainath.jpg" width="40%" alt="Sainath K - Full Stack Developer Banner">
