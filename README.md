@@ -1,4 +1,4 @@
-## Hi there 👋                             ![Profile Views](https://komarev.com/ghpvc/?username=Sainath-K-tech&color=blue)
+## Hi there 👋                           
 <!-- Banner -->
 <p align="center">
 <img src="https://github.com/Sainath-K-tech/Sainath-K-tech/blob/3c2ca8756f805b105145f080091cc48c9498e278/Sainath.jpg" width="40%" alt="Sainath K - Full Stack Developer Banner">
@@ -6,7 +6,7 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F700&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sainath+K;Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Problem+Solver+%26+Tech+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F700&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sainath+K;Full-Stack+Web+Developer;Problem+Solver+%26+Tech+Learner" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -67,6 +67,8 @@
 ---
 
 <p align="center">💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
+
+##   ![Profile Views](https://komarev.com/ghpvc/?username=Sainath-K-tech&color=blue)
 
 <!--
 **Sainath-K-tech/Sainath-K-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
